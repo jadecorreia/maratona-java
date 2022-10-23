@@ -27,3 +27,4 @@ Curso de 286 aulas com atividades.
 - [x] Orientação Objetos - Sobrecarga de métodos
 - [x] Orientação Objetos - Construtores
 - [x] Orientação Objetos - Bloco de inicialização 
+- [x] Orientação Objetos - Associação 
