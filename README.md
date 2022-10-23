@@ -2,6 +2,8 @@
 
 Curso de 286 aulas com atividades.
 
+**70/286**
+
 - [x] Tipos primitivos
 - [x] Operadores aritméticos 
 - [x] Estruturas condicionais IF
